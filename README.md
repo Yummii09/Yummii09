@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALTIA INALE</h1>
 <h3 align="center">A Future Tech Admin Assistant</h3>
 
-<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding Girl" width="300" src="https://i.pinimg.com/736x/3c/23/3c/3c233c757170ab33ac8d96183cf07bf6.jpg" />
 
 - 🌱 I’m currently learning **Laravel / GitHub/ PHP**  
 - 💬 Ask me about **why I still watch horror movies even if I get scared HAHAHA**  
